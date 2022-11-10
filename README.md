@@ -16,5 +16,5 @@
 ![image](https://user-images.githubusercontent.com/104419959/201198478-b7309e61-649a-4c50-8eb9-2c429fc43c53.png)
 
 - How many terrestrial days exist in a Martian year? A visual estimate within 25% was made.
-  -From the below chart, we can estimate that there are roughly 670 terrestrial days in a Martian Year. 
+ <br><br>-From the below chart, we can estimate that there are roughly 670 terrestrial days in a Martian Year. 
 -- ![image](https://user-images.githubusercontent.com/104419959/201198512-75111412-9618-463e-b89a-0f87ef99d19e.png)
